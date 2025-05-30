@@ -631,6 +631,10 @@ toc::[]
 |`whatsapp://`
 |
 
+|WSF Portal 
+|`wsf-portal://`
+|
+
 |YouTube: Watch, Listen, Stream 
 |`youtube://`
 |
